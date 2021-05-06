@@ -9,7 +9,7 @@
   "dependencies": {
     "locutus": "^2.0.6",
     "request": "^2.79.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "joi": "^9.2.0",
