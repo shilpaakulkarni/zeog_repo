@@ -12,7 +12,7 @@
     "express": "^4.14.0",
     "joi": "^9.2.0",
     "pubsub-js": "^1.5.4",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "util": "^0.10.3",
     "locutus": "^2.0.6",
     "request": "^2.79.0"
