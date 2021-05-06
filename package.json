@@ -14,7 +14,7 @@
     "pubsub-js": "^1.5.4",
     "underscore": "^1.8.3",
     "util": "^0.10.3",
-    "locutus": "^2.0.6",
+    "locutus": "^2.0.12",
     "request": "^2.79.0"
   },
   "devDependencies": {
