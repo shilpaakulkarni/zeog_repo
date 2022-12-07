@@ -8,8 +8,8 @@
   "main": "index.js",
   "dependencies": {
     "alexa-app": "^4.2.0",
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "joi": "^9.2.0",
     "pubsub-js": "^1.5.4",
     "underscore": "^1.8.3",
